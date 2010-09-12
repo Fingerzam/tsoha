@@ -1,0 +1,24 @@
+Aihe
+====
+
+Aiheena on diabeetin omaseurantajärjestelmä. Sovellusta käyttävät
+diabeetikot, jotka kirjaavat järjestelmään verensokerimittausten tuloksia,
+aterioita, pistettyä insuliinia ja mahdollisia muita verensokeritasapainoon
+vaikuttavia tapahtumia (ainakin liikuntasuoritukset).
+
+Toteutusympäristö
+=================
+
+- Ubuntu 10.04 64-bit
+- git
+- Clojure
+  - Compojure
+  - Ring
+  - ClojureQL
+  - Enlive (ehkä)
+- PostgreSQL 8.4
+
+Toimintaympäristö
+=================
+
+- PostgreSQL 8.4
